@@ -34,7 +34,7 @@ export function LearnSection() {
               A beginner-friendly learning project
             </p>
             <h1 id="hero-title" className="text-balance text-4xl font-bold leading-tight tracking-tight sm:text-5xl">
-              Build confidence, one count at a time.
+              Know the count. Understand the difference.
             </h1>
             <p className="mt-5 max-w-xl text-pretty text-lg leading-relaxed text-primary-foreground/85">
               Learn warehouse basics, try inventory math, and practice with fictional parts.
